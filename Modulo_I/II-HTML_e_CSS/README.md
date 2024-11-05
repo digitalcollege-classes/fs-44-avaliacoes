@@ -13,6 +13,7 @@ Proposta de Plataforma:
 
 ## Atividade Prática
 > Transformar tela em código
+
 > Em dupla
 
 #### Resumo
