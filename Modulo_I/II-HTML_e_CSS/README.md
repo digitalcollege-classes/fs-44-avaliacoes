@@ -12,19 +12,21 @@ Proposta de Plataforma:
 	- Fazer comentários a respeito de cada questão ao término das respostas.
 
 ## Atividade Prática
-> Construção de uma Landing Page
+> Transformar tela em código
+> Em dupla
 
 #### Resumo
-- Escolher um protótipo dentre as [opções aqui](/Modulo_I/II-HTML_e_CSS/imagens);
+- Formar uma dupla
+- Escolher dois protótipos dentre as [opções aqui](/Modulo_I/II-HTML_e_CSS/imagens/mobile/);
 - Construir o HTML e CSS a partir da análise do protótipo, apenas através da observação visual tentar identificar as tags que serão utilizadas e os estilos que deverão ser aplicados;
-- O uso de bibliotecas adicionais é permitido (Bootstrap, Tailwind, Fonts, Icons, etc);
+- O uso de bibliotecas adicionais não é permitido nesse momento (Bootstrap, Tailwind, etc);
 - Tentar ao máximo entregar o design visual como está no protótipo;
-- Definir um prazo de entrega e forma de envio, poderá ser um google form ou enviar no discord;
+- Entregar o código por email até o dia 30/11/2024 às 23:59; alessandrofeitoza01@gmail.com
 
 #### Implementação
-Instrua a turma a começar fazendo por blocos, primeiro o HTML, e depois vai adicionando os estilos (CSS), e a partir disso vá fazendo outros blocos.
+Dica: comecem fazendo por blocos, primeiro o HTML, e depois vai adicionando os estilos (CSS), e a partir disso vá fazendo outros blocos.
 
-Peça a turma para deixar a "perfumaria" pro final, ou seja, coisas como icones, imagens, arrendondamentos, bordas, animações, etc.
+**Deixem  a "perfumaria" pro final, ou seja, coisas como icones, imagens, arrendondamentos, bordas, animações, etc.**
 
 #### Materiais e Recursos
 - Navegador Web (Firefox, Chrome, Edge, etc)
@@ -32,10 +34,10 @@ Peça a turma para deixar a "perfumaria" pro final, ou seja, coisas como icones,
 - Internet para consulta
 
 #### Critérios de Avaliação
-Cada pessoa professora no entendimento do nível da turma poderá personalizar os critérios de avaliação, a escola sugere elencar alguns pontos:
+Os critérios de avaliação serão na sequencia abaixo, valendo de 0 a 10 para cada item:
 - Fidelidade da aparência;
 - Organização do código HTML & CSS;
 - Reutilização dos estilos utilizando seletores
 - Tipografia condizente (strong, itálico, proporcionalidade)
 - Arrendondamentos, bordas e larguras;
-- Semântica;
+- Semântica (bom uso das tags de acordo com as funcionalidades);
